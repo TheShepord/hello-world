@@ -1,4 +1,4 @@
-# online-courses
+# hello-world
 
 Online courses I completed between 2016-2019 that I still had saved on my hard drive. Will be commiting any more that I find laying around.
 
